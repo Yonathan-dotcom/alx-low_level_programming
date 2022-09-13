@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - check the code
+ * main - function that prints a to z
  *
  * Return: Always 0.
  */
