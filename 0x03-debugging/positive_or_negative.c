@@ -4,7 +4,7 @@
 
 /**
  * main - Entry point
- *
+ * this function shows a number if its positive or negative
  * Return: Always 0 (Success)
  */
 int positive_or_negative(void)
