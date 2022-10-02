@@ -1,10 +1,11 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
+
 /**
- *main- This program that multiplies two numbers
- *@argc: The arguements' counter
- *@argv: The arguements' values
- *Returns: always 0 (success)
+ * main - A program that multiplies two numbers
+ * @argc: The arguments' counter
+ * @argv: The arguments' values
+ * Return: Always 0 (Success)
  */
 int main(int argc, char **argv)
 {
